@@ -5,7 +5,7 @@ This is following the [Alchemy Hello World Smart Contract tutorial](https://docs
 ## Getting Started
 
 1. Follow step 1-5 from the [Alchemy tutorial](https://docs.alchemy.com/alchemy/tutorials/hello-world-smart-contract#create-and-deploy-your-smart-contract-using-hardhat)
-2. Make sure you have `npm installed`
+2. Make sure you have `npm` installed
 3. Run `npm install` to install the dependencies
 4. Copy the `.env.example` file to `.env` and fill in the values, excluding the `CONTRACT_ADDRESS`
 5. Compile the contract by running `npx hardhat compile`
